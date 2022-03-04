@@ -1,0 +1,55 @@
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54.csprojAssemblyReference.cache
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\App.g.cs
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54_MarkupCompile.cache
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54_MarkupCompile.lref
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\SP54.exe.config
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\SP54.exe
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\SP54.pdb
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\MainWindow.baml
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54.g.resources
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54.Properties.Resources.resources
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54.csproj.GenerateResource.cache
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54.exe
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54.pdb
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\Autorization.g.cs
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\Autorization.baml
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\AdministratorMenu.g.cs
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\Registration.g.cs
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54_Content.g.cs
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\EntityFramework.dll
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\EntityFramework.xml
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\AdministratorMenu.baml
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\Registration.baml
+C:\Users\Иван\OneDrive\Desktop\учеба\программирование\SP54\SP54\obj\Debug\SP54.csproj.CopyComplete
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\SP54.exe.config
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\SP54.exe
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\SP54.pdb
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\EntityFramework.dll
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\EntityFramework.xml
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.csprojAssemblyReference.cache
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\AdministratorMenu.g.cs
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\Autorization.g.cs
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\MainWindow.g.cs
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\Registration.g.cs
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\App.g.cs
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54_Content.g.cs
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54_MarkupCompile.cache
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54_MarkupCompile.lref
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\AdministratorMenu.baml
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\Autorization.baml
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\MainWindow.baml
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\Registration.baml
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.g.resources
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.Properties.Resources.resources
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.csproj.GenerateResource.cache
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.csproj.CoreCompileInputs.cache
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.csproj.CopyComplete
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.exe
+D:\учеба\Шарага\C#\стоматологическая клиника 29.05\SP54\SP54\obj\Debug\SP54.pdb

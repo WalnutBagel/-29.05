@@ -1,0 +1,48 @@
+﻿<Window x:Class="SP54.AdministratorMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SP54"
+        mc:Ignorable="d"
+        Title="Меню администратора" Height="500" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF00D0FF" Offset="0"/>
+                <GradientStop Color="#FF00D1FF" Offset="1"/>
+                <GradientStop Color="White" Offset="0.241"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <StackPanel>
+            <Border VerticalAlignment="Top" Height="100">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Resources\logo.png" Stretch="Fill" Width="100" Margin="20,0" />
+                    <Label Content="Регистрация в личный кабинет СК №54" FontSize="24" Foreground="#FF0023FF" FontWeight="Bold" Height="50" HorizontalContentAlignment="Center" Margin="20,0" ></Label>
+                    <StackPanel Margin="0,5" >
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="Resources\phone.png" Stretch="Fill" Width="40" />
+                            <Label Content="8-906-88-60-07" FontWeight="Bold" Foreground="#FF005DFF" FontSize="20"/>
+                        </StackPanel>
+                        <Label Content="ОП №6 Рязанский проспект 8" FontWeight="Bold"  />
+                        <Label Content="Сомов Анатолий викторович" FontWeight="Bold" />
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            <Border Height="400">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" Background="#FFE3FAFF">
+                        <Button Height="40" Width="150" Content="Главная" Background="#7FE8F5F5" BorderBrush="{x:Null}" FontWeight="Bold" FontSize="20" Foreground="#FF0B58FD"/>
+                        <Button Height="40" Width="150" Content="Новости" Background="#7FE8F5F5" BorderBrush="{x:Null}" FontWeight="Bold" FontSize="20" Foreground="#FF0B58FD"/>
+                        <Button Height="40" Width="180" Content="Запись на прием" Background="#7FE8F5F5" BorderBrush="{x:Null}" FontWeight="Bold" FontSize="20" Foreground="#FF0B58FD"/>
+                        <Button Height="40" Width="150" Content="Контакты" Background="#7FE8F5F5" BorderBrush="{x:Null}" FontWeight="Bold" FontSize="20" Foreground="#FF0B58FD"/>
+                        <Button Height="40" Width="150" Content="Личный кабинет" Background="#FF16D5F3" BorderBrush="{x:Null}" FontWeight="Bold" FontSize="20" Foreground="#FF0B58FD"/>
+                    </StackPanel>
+                    <StackPanel>
+                        
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>
